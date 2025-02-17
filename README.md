@@ -10,4 +10,4 @@
 - Background in **Atmospheric Dynamics & Aerosol Studies**  
 
 ## 🌐 My Website  
-[Visit my GitHub Page](https://vikashkumarsharma.github.io/)
+[Visit my GitHub Page](https://vik91iitr.github.io/vikashkumarsharma.github.io/)
